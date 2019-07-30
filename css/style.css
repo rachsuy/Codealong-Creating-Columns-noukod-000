@@ -138,5 +138,8 @@ z-index: 1;
   
 }
 #social{
-  width: 
+  display: block;
+  width: 40px;
+  height: 40px;
+  background: yellow;
 }
