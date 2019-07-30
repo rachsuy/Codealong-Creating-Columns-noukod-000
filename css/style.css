@@ -131,6 +131,7 @@ box-sizing: border-box
 /* ////// Social //////*/
 #social{
 position: fixed;
-top: ;
+top: 200px;
+right: 20px
   
 }
