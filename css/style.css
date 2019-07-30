@@ -82,15 +82,15 @@ figcaption {
 
 .col-1{
   float: left;
-  with: 32%;
+  width: 32%;
   background:  #ccc
 }
 .col-2{
    float: left;
-  with: 32%;
+  width: 66%;
   background:  #ccc
 }
 
 .col-3{
-  
+  background: #eee;
 }
